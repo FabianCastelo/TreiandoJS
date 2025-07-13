@@ -14,4 +14,6 @@ if(x % 2 === 0){
     console.log(x + " é um numero impar.");
 }
 
-/* Comentário */
+/* Comentário 
+Nesses comentários, estou fazendo testes de Git, para aprender a mexer melhor.
+*/
