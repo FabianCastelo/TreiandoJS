@@ -13,3 +13,5 @@ if(x % 2 === 0){
 }else{
     console.log(x + " é um numero impar.");
 }
+
+/* Comentário */
